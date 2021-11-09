@@ -1,0 +1,10 @@
+.text-area{
+-fx-background-color: aquamarine;
+-fx-control-inner-background: aquamarine;
+-fx-text-fill: #00aa19;
+-fx-highlight-fill: blue;
+}
+
+.text-area{
+-fx-font-style: italic;
+}
